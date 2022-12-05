@@ -1,7 +1,5 @@
 Álvaro Mbeia Daniel Miguel
-Programador a 2 anos, com seguintes técnologias:
 
-Python - Full Stack
-Html/Css e Javascript - FromtEnd
+https://www.linkedin.com/mwlite/in/alvaro-mbeia-daniel-abra%C3%A3o-28512a201
 
-Estou aprendendo java já tenhos varios projectos criadas por min com as linguagens citadas acima....
+alvarombeiadanielmiguel@gmail.com
